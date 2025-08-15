@@ -21,14 +21,14 @@
 
 ## 📈 Estatísticas
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopiloni&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopiloni&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 A cobrinha comendo meus commits
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcelopiloni/marcelopiloni/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
