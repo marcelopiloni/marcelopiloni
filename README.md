@@ -1,38 +1,110 @@
-# 👋 Olá, eu sou o Marcelo!
+<div align="center">
 
-💼 **Analista de Suporte de T.I.** em uma indústria, responsável pela gestão de PCs, licenças e infraestrutura tecnológica.  
-🚀 Apaixonado por tecnologia, automação e soluções práticas para o dia a dia corporativo.  
-📚 Sempre em busca de novos conhecimentos e desafios.
+<a href="https://github.com/marcelopiloni">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Analista+de+Tecnologia+%26+Inova%C3%A7%C3%A3o+PL;Automação+de+Processos+%7C+Integração+de+Sistemas;Transformando+dados+em+soluções." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🛠️ Minhas Skills
+![Profile Views](https://komarev.com/ghpvc/?username=marcelopiloni&color=00b4d8&style=for-the-badge&label=VISITAS)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Marcelo-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Marcelo-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcelo-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcelo-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Marcelo-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
-## 📈 Estatísticas
+## 🧠 Sobre mim
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopiloni&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopiloni&layout=compact&theme=tokyonight)
+```python
+marcelo = {
+    "role":    "Analista de Tecnologia & Inovação PL",
+    "focus":   ["Automação de processos", "Integração de sistemas", "Análise de dados"],
+    "stack":   ["Python", "SQL", "Power Platform", "REST APIs"],
+    "mindset": "Reduzir cliques, escalar soluções.",
+}
+```
 
 ---
 
-## 🐍 A cobrinha comendo meus commits
-![Snake animation](https://github.com/marcelopiloni/marcelopiloni/blob/output/github-contribution-grid-snake.svg)
+## ⚙️ Tech Stack
+
+**Linguagens & Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Automação & Integração**
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Postman](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**BI & Análise**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 🌐 Onde me encontrar
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcelopiloni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopiloni&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcelopiloni&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcelopiloni&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelopiloni&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/marcelopiloni/marcelopiloni/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelopiloni)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelopiloni)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelopiloni)
+
+</div>
