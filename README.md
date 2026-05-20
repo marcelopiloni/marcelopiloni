@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/marcelopiloni">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Analista+de+Tecnologia+%26+Inova%C3%A7%C3%A3o+PL;Automa%C3%A7%C3%A3o+de+Processos+%7C+Integra%C3%A7%C3%A3o+de+Sistemas;Transformando+dados+em+solu%C3%A7%C3%B5es." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Analista+de+Tecnologia+%26+Inova%C3%A7%C3%A3o+PL;+Automa%C3%A7%C3%A3o+de+Processos+%7C+Integra%C3%A7%C3%A3o+de+Sistemas;Transformando+dados+em+solu%C3%A7%C3%B5es." alt="Typing SVG" />
 </a>
 
 <br/>
