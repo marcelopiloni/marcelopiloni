@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/marcelopiloni">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Analista+de+Tecnologia+%26+Inova%C3%A7%C3%A3o+PL;Automação+de+Processos+%7C+Integração+de+Sistemas;Transformando+dados+em+soluções." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Analista+de+Tecnologia+%26+Inova%C3%A7%C3%A3o+PL;Automa%C3%A7%C3%A3o+de+Processos+%7C+Integra%C3%A7%C3%A3o+de+Sistemas;Transformando+dados+em+solu%C3%A7%C3%B5es." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,8 +57,7 @@ marcelo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcelopiloni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopiloni&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marcelopiloni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
 </div>
 
@@ -85,16 +84,6 @@ marcelo = {
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelopiloni&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/marcelopiloni/marcelopiloni/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
